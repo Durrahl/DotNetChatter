@@ -1,0 +1,13 @@
+E:\Github\Chatter\DotNetChatter\Chatter\Chatter\obj\Debug\netcoreapp3.1\Chatter.csprojAssemblyReference.cache
+E:\Github\Chatter\DotNetChatter\Chatter\Chatter\obj\Debug\netcoreapp3.1\Chatter.csproj.CoreCompileInputs.cache
+E:\Github\Chatter\DotNetChatter\Chatter\Chatter\obj\Debug\netcoreapp3.1\Chatter.AssemblyInfoInputs.cache
+E:\Github\Chatter\DotNetChatter\Chatter\Chatter\obj\Debug\netcoreapp3.1\Chatter.AssemblyInfo.cs
+E:\Github\Chatter\DotNetChatter\Chatter\Chatter\bin\Debug\netcoreapp3.1\Chatter.exe
+E:\Github\Chatter\DotNetChatter\Chatter\Chatter\bin\Debug\netcoreapp3.1\Chatter.deps.json
+E:\Github\Chatter\DotNetChatter\Chatter\Chatter\bin\Debug\netcoreapp3.1\Chatter.runtimeconfig.json
+E:\Github\Chatter\DotNetChatter\Chatter\Chatter\bin\Debug\netcoreapp3.1\Chatter.runtimeconfig.dev.json
+E:\Github\Chatter\DotNetChatter\Chatter\Chatter\bin\Debug\netcoreapp3.1\Chatter.dll
+E:\Github\Chatter\DotNetChatter\Chatter\Chatter\bin\Debug\netcoreapp3.1\Chatter.pdb
+E:\Github\Chatter\DotNetChatter\Chatter\Chatter\obj\Debug\netcoreapp3.1\Chatter.dll
+E:\Github\Chatter\DotNetChatter\Chatter\Chatter\obj\Debug\netcoreapp3.1\Chatter.pdb
+E:\Github\Chatter\DotNetChatter\Chatter\Chatter\obj\Debug\netcoreapp3.1\Chatter.genruntimeconfig.cache
